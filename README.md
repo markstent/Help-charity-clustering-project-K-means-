@@ -21,11 +21,12 @@ Based on aniterative process and analysis, **Central African Republic** probably
 
 Next in line would be **Haiti**, **Congo** or **Sierra Leone**
 
-The Jupyter notebook can be found here.
+The Jupyter notebook can be found [here](/'HELP_Clustering.ipynb').
 
-The PCA Exploration can be found here.
+The PCA Exploration can be found [here](/Help_PCA.ipynb).
 
-The dataset can be found here.
+The dataset can be found [here](/Country-data.csv) and the data dictionary [here](/data-dictionary.csv).
+
 ## Lessons Learned
 
 This was the first time I have used Plotly and the Yellowbrick library. I toyed around with PCA on this too, but it  wasnt very useful in this case.
