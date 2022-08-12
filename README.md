@@ -1,4 +1,6 @@
 
+![K Means](/Help-charity-clustering-project-K-means.jpg)
+
 # HELP - Clustering with K-Means
 
 This was a Kaggle competition for HELP organisation to make suggestions for how to distribute charity funding based on socio-economic factors.
