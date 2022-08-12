@@ -1,5 +1,5 @@
 
-![K Means](/Help-charity-clustering-project-K-means.jpg)
+![K Means](https://github.com/markstent/Help-charity-clustering-project-K-means/blob/main/Help-charity-clustering-project-K-means.jpeg)
 
 # HELP - Clustering with K-Means
 
